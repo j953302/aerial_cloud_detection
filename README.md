@@ -12,3 +12,5 @@
 
 3. 統計Mask所選取的Pixel HSV中的V值，透過這統計來分析該張相片的厚、薄雲的V閥值
 ![image](https://github.com/j953302/aerial_cloud_detection/blob/main/Result/201022a_012_dst1.png)
+
+4. 最後統計厚雲(紅色)與薄雲(綠色)之pixel統計值，並計算其在照片中所占面積比例。
